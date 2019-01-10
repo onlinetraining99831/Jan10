@@ -12,6 +12,7 @@ namespace forgit
         {
             Console.WriteLine("adding to git");
             Console.WriteLine("adding from git");
+            Console.WriteLine("adding from git second time");
         }
     }
 }
