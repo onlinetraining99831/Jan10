@@ -10,6 +10,7 @@ namespace forgit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("adding to git");
         }
     }
 }
