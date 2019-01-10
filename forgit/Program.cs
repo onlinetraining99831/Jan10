@@ -14,6 +14,8 @@ namespace forgit
             Console.WriteLine("adding from git");
             Console.WriteLine("adding from git second time");
             Console.WriteLine("adding from VS");
+
+            Console.WriteLine("uploading file from my system....");
         }
     }
 }
